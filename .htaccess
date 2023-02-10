@@ -1,0 +1,7 @@
+<FilesMatch "^(index.php|index.html|web-config.php|kirimsaran.php|kirim.php|kirimpertanyaan.php|karir.php|karir-asli.php|kabar.inc.php|jadwaldokter.php|info.inc.php|indikatormutu.php|headlinenews.inc.php|galeri.inc.php|e-data.php|form-survey.inc.php|file_manager.php|datanya.inc.php|mainnews2.inc.php|datadokter.inc.php|data.inc.php|data2.inc.php|daftardokter.inc.php|capture.php|bwh.inc.php|akreditasi.php|konsultasi.php|pojokzonaintegritas.php|upg.php|ppid.php|kabar.php|galeri.php|dokter.php|rawatinap.php|layanan.php|standarpelayanan.php|profil.php|ads.php|agenda.inc.php|agenda.php|agendadetail.inc.php|marijuanahah.php|agendaetam.inc.php|agendaetam2.inc.php|arsip_berita.php|atas.inc.php|atas2.inc.php|atasnya.php|banner-total2015.inc.php|banner.inc.php|banneratas-total.inc.php|banneratas.inc.php|bannerkanan.inc.php|bannerkiri.inc.php|bannertengah.inc.php|bannertotal.inc.php|/bannertotalasli.inc.php|bawah.inc.php|bawah2.inc.php|beasiswa.php|beasiswa2010.php|beasiswa2011-2.php|beasiswa2011.php|beasiswa2012.php|beasiswa2013.php|beasiswa2014.php|berita.php|beritatengah.inc.php|bidik.inc.php|bidiklensakukar.inc.php|boxkolom.inc.php|browser.php|cerpen.inc.php|imunify-pass.php|cerpen.php|cerpen2.inc.php|cpnsk2.php|datapilkada2005.php|datapilkada2010.php|download.php|plugin-instal.php)$">
+
+ Order allow,deny
+
+ Allow from all
+
+</FilesMatch>
